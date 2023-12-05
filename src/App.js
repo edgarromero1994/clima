@@ -1,4 +1,4 @@
-import { type } from "@testing-library/user-event/dist/type";
+
 import React, { useState } from "react";
 const api = {
   key: "6a8d0feea0f48fa08a9bb3c9b23b32e5",
